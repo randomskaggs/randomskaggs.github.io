@@ -1,7 +1,6 @@
 # Testing out GitHub Pages
 I'm thinking about using this for my Rick Steves scrapbook entry. But I want to see how it looks.  Or maybe I should do it in a subdirectory. we'll see. 
-## Best of Switzerland in 12 days
-What an adventure!
+[Creative Commons Certificate]
 
 ### Jekyll Themes
 
